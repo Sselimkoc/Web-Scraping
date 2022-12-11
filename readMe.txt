@@ -1,0 +1,1 @@
+Scrap all the lawyer's name , number and location from https://www.gibsondunn.com/?paged1=1&search=lawyer&type=lawyer&s&office%5B0%5D=1717&school and save them into a csv file
